@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Azure app service - vue!"/>
+    <HelloWorld msg="Azure app service - vue"/>
   </div>
 </template>
 
